@@ -8,6 +8,8 @@ while True:
         break 
     else: 
         cont += 1
-    media = num / cont 
+    media = num + num / cont 
 
 print (media %.2f)
+
+print ("Oi Celso")
