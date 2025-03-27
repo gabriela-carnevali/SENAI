@@ -10,6 +10,5 @@ while True:
         cont += 1
     media = num + num / cont 
 
-print (media %.2f)
-
+print ("A média é: %.2f" % media)
 print ("Oi Celso")
