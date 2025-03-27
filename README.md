@@ -1,2 +1,2 @@
-# SESI
+# SENAI
  Exercícios feitos em aula 
