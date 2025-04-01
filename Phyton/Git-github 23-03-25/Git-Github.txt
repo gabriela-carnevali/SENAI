@@ -1,0 +1,29 @@
+GIT
+ - Perder arquivos;
+ - Sobrecarregar;
+ - Desorganizado;
+ - Compartilhar 
+
+
+VERSIONAMENTO 
+ - Criar versões do seu código 
+ - Páginas que ficam salvas que vão sendo atualizadas
+ - Cada vez que uma mudança é feita, ela é salva em outra página, além de notificar o que mudou e onde mudou 
+
+
+REPOSITÓRIO 
+ - Pasta 
+ - Diretório
+ - Possui a função de armazenar conteúdo
+
+
+BRANCH 
+ - Cópias feitas do código inteiro 
+ - É uma alternativa ao trabalhar fora do repositório original 
+ - Main e master: significam o arquivo principal 
+
+ARQUIVO 
+ - Alterar: git add .
+ - git commit -m "mensagem com breve explicação da alteração"
+ - git push (na primeira vez precisar ter também: -u origin "url do repositório do github")
+ - Atualizar: git pull origin master

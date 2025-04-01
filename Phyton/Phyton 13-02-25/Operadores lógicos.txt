@@ -1,0 +1,53 @@
+OPERADORES LÓGICOS
+Para agrupar operações como lógica booleana 
+
+- Operador Not
+   - V1          Not V1
+     V              F
+     F              V
+
+- Operador And
+   - Resulta verdadeiro apenas quando seus dois operadores forem verdadeiros 
+   - V1            V2          V1 and V2
+     V              V              V
+     V              F              F
+     F              V              F
+     F              F              F
+
+- Operador Or
+  - Resulta em falso apenas se seus dois operadores também forem falsos
+  - V1              V2          V1 or V2
+    V                V              V
+    V                F              V
+    F                V              V
+    F                F              F
+
+FUNÇÕES DOS COMANDOS  
+- Função print (saída de dados)
+   - Exibe uma mensagem na tela do computador 
+   - Pode servir para dar a informação para o usuário 
+   - Pode exibir uma variável 
+   - Pode fazer uma soma
+   - Pode exibir variável e texto ao mesmo tempo (varíavel separada por vírgula)
+
+- Função input (entrada de dados)
+   - Espera o usuário digitar um texto no teclado e     pressionar <enter>
+    >>> nome = input ("Informe seu nome")
+    Informe o seu nome: Maria
+    >>> print (nome)
+    Maria
+
+- Função int 
+  - Para números inteiros 
+
+- Função float
+   - Para números quebrados 
+
+Edição de arquivos 
+- Nem só de experimentos vive o programador Phyton!
+
+Variação adicione: a+=1  => a=a+1
+   - Toda vez que passar por ela adiciona o valor da variável
+Variação subtraia: a-1=1  => a=a-1
+   - Toda vez que passar por ela subtrai o valor da variável 
+

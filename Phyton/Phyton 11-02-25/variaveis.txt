@@ -1,0 +1,103 @@
+Aula 1 
+
+NOMES DE VARIÁVEIS
+- Iniciar, obrigatoriamente, com uma letra (caso inicie com um número, o sistema entende que a variável faz parte da contagem)
+- Pode conter números e os caractere sublinhado (_)
+- Permite a utilização de acentos (conjunto de caracteres chamados UTF-8) a partir da versão 3. Mas não é aconselhável colocar acentos e letra maiúscula
+- Exemplos: nome, n1, media_notas_, _a.
+
+TIPOS DE DADOS
+- Numéricos
+    - Inteiros (1,2,3)
+    - Ponto Flutuante(1.33, 3.1415, 7.0) - Também é possível trabalhar inteiros 
+
+- Lógico ou Booleano 
+    - True para verdadeiro 
+    - False para falso 
+
+- String (Variáveis de texto) 
+    - s = "abc" ou s = 'abc'
+    - Haverá texto tanto na criação de variável, quanto para mostrar para o usuário
+
+- Listas 
+- Tuplas 
+- Dicionários
+
+Teste de prgramação em phyton 
+
+n1 = "1"
+n2 = 2
+ERRO
+
+n1 = "1"
+n2 = "2"
+'12'
+Concatenar texto (somar texto)
+
+OPERADORES ARITMÉTICOS 
+Para realizar operações matemáticas básicas
+
++ = soma
+- = subtração
+* = multiplicação
+/ = Divisão
+// = Divisão de inteiros 
+** = Potenciação
+% = Módulo (resto da divisão inteira)
+  - Depois também terá uma função na linguagem de programação
+
+Se o resto da divisão por dois for igual a zero o número é par, se sobrar, é ímpar
+
+O phyton respeita a ordem dos operadores aritméticos (se não colocar parênteses antes de passar uma conta de soma ou subtração na frente de uma de multiplicação ou divisão, a fórmula dará errado.
+
+OPERADORES RELACIONAIS 
+Para realizar comparações lógicas
+
+=  : Atribuição 
+== : igualdade
+>  : maior que 
+<  : menor que 
+!= : diferente 
+>= : maior ou igual 
+<= : menor ou igual
+=  : atribuição
+
+idade = 17
+idade == 18
+False 
+
+idade = 17
+idade == 17
+True
+
+EXEMPLOS COM OPERADORES RELACIONAIS
+>>> a = 1
+>>> b = 5
+>>> c = 2
+>>> d = 1
+
+>>> a == b
+False
+
+>>> b > a
+True
+
+>>> a < b
+True 
+
+>>> a == d 
+True 
+
+>>> b >= a 
+True 
+
+>>> c <= b
+True
+
+>>> d != a
+False
+
+>>> d != b
+True
+
+SENHA MEU SENAI: TECZ3V4J

@@ -1,0 +1,18 @@
+ESTRUTURAS DE SELEÇÃO
+
+Permitem que uma escolha seja feita durante a execução de um programa, de modo que um determinado trecho de código, seja ou não executado, de acordo com o resultado de uma expressão lógica
+
+Sintaxe da estrutura
+(:) - informa que existe um bloco de linhas a seguir 
+Bloco - Representado com um deslocamento no início da linha para a direita (identação)
+      - Continua até a primeira linha com deslocamento diferente
+
+Cláusula else 
+- Especifica o que fazer, caso o resultado da avaliação da condiçaõ seja falso, sem precisar de um novo if
+
+Estruturas aninhadas
+- Muitas vezes, para obter o comportamento desejado do programa, é necessário utiizar um if dentro do outro.
+
+Cláusula elif
+- Substitui um par else if, mas sem criar outro nível de estrutura.
+- Evita problemas de deslocamento para a direita.

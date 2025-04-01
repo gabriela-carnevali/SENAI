@@ -1,0 +1,11 @@
+Phyton: Principais características
+
+LEGÍVEL: indentação (respeito que há na programação para espaços) obrigatória. Não misturar Tabs e espaços. Caso não respeite os espaços, o código vai dar erro. Se o comando for feito corretamente, o espaço será dado de forma automática.
+MULTIPLATAFORMA: Aceito em diversos lugares (windows, linux, etc)
+TIPAGEM FORTE E DINÂMICA: É possível atribuir qualquer tipo de valor a uma variável e em qualquer momento do código fonte. Não é necessário declarar tipo ou valor da variável. É possível atribuir a qaulquer momento, e até mudar o valor.
+MULTIPARADIGMA: Estruturado, funcional e orientado a objetos.
+USADA EM VÁRIAS APLICAÇÕES: desktop, web, mobile, sistemas embarcados, sistemas 3D.
+Também diferencia maiúsculas de minúsculas e acentuação.
+É importante criar variáveis tudo minúsculo e sem acento.
+Diversas plataformas utilizam phyton, como google, youtube, dream works, disney e NASA
+ 

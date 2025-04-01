@@ -1,0 +1,19 @@
+FUNÇÕES
+
+ Uma função é um bloco de código que tem nome, pode receber parâmetros e gerar um resultado.
+• São interessantes para isolar uma tarefa específica em um trecho de programa (técnica de modularização).
+• Aumentam a possibilidade de reuso e reduzem a complexidade de manutenção.
+• Já usamos várias funções de Python, como por exemplo: int, float, print e input.
+• def deve ser utilizada para definir uma função e return para devolver algum valor.
+
+Se não chamar a função, ela nunca será executada, será apenas um bloco de código parado.
+
+Variável local e global
+
+• Local
+     • Existe apenas dentro da função.
+     • Não pode ser acessada fora da função em que foi criada.
+• Global
+     • Definida fora de uma função.
+     • Pode ser vista e alterada por qualquer função do programa.
+     • Deve ser utilizada com cuidado, como por exemplo em constantes.
