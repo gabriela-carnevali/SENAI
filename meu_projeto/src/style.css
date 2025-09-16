@@ -1,0 +1,13 @@
+/* Alteração da cor da fonte */
+body{
+    /* background-color: #ffea00
+ */
+ background-image: url(imagens/images.jpg) ;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+h1 {
+    color: fuchsia;
+}
+
+/* Alteração da cor do fundo */
